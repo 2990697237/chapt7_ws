@@ -1,0 +1,18 @@
+[0.799s] Invoking command in '/home/guo/fishbot/ros2bookcode/chapt7/chapt7_ws/build/autopatrol_robot': PYTHONPATH=/home/guo/fishbot/ros2bookcode/chapt7/chapt7_ws/build/autopatrol_robot/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/guo/fishbot/ros2bookcode/chapt7/chapt7_ws/install/autopatrol_robot/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/guo/fishbot/ros2bookcode/chapt7/chapt7_ws/build/autopatrol_robot/build --no-deps symlink_data
+[1.038s] running develop
+[1.182s] running egg_info
+[1.182s] writing autopatrol_robot.egg-info/PKG-INFO
+[1.182s] writing dependency_links to autopatrol_robot.egg-info/dependency_links.txt
+[1.182s] writing entry points to autopatrol_robot.egg-info/entry_points.txt
+[1.182s] writing requirements to autopatrol_robot.egg-info/requires.txt
+[1.182s] writing top-level names to autopatrol_robot.egg-info/top_level.txt
+[1.182s] reading manifest file 'autopatrol_robot.egg-info/SOURCES.txt'
+[1.182s] writing manifest file 'autopatrol_robot.egg-info/SOURCES.txt'
+[1.184s] running build_ext
+[1.184s] Creating /home/guo/fishbot/ros2bookcode/chapt7/chapt7_ws/install/autopatrol_robot/lib/python3.10/site-packages/autopatrol-robot.egg-link (link to .)
+[1.185s] Installing patrol_node script to /home/guo/fishbot/ros2bookcode/chapt7/chapt7_ws/install/autopatrol_robot/lib/autopatrol_robot
+[1.186s] Installing speaker script to /home/guo/fishbot/ros2bookcode/chapt7/chapt7_ws/install/autopatrol_robot/lib/autopatrol_robot
+[1.186s] 
+[1.186s] Installed /home/guo/fishbot/ros2bookcode/chapt7/chapt7_ws/build/autopatrol_robot
+[1.188s] running symlink_data
+[1.224s] Invoked command in '/home/guo/fishbot/ros2bookcode/chapt7/chapt7_ws/build/autopatrol_robot' returned '0': PYTHONPATH=/home/guo/fishbot/ros2bookcode/chapt7/chapt7_ws/build/autopatrol_robot/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/guo/fishbot/ros2bookcode/chapt7/chapt7_ws/install/autopatrol_robot/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/guo/fishbot/ros2bookcode/chapt7/chapt7_ws/build/autopatrol_robot/build --no-deps symlink_data

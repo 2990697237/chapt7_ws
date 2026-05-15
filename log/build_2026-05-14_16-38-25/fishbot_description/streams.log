@@ -1,0 +1,76 @@
+[0.335s] Invoking command in '/home/guo/fishbot/ros2bookcode/chapt7/chapt7_ws/build/fishbot_description': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/guo/fishbot/ros2bookcode/chapt7/chapt7_ws/src/fishbot_description -DCMAKE_INSTALL_PREFIX=/home/guo/fishbot/ros2bookcode/chapt7/chapt7_ws/install/fishbot_description
+[0.508s] -- The C compiler identification is GNU 11.4.0
+[1.683s] -- The CXX compiler identification is GNU 11.4.0
+[2.413s] -- Detecting C compiler ABI info
+[2.567s] -- Detecting C compiler ABI info - done
+[2.572s] -- Check for working C compiler: /usr/bin/cc - skipped
+[2.572s] -- Detecting C compile features
+[2.572s] -- Detecting C compile features - done
+[2.574s] -- Detecting CXX compiler ABI info
+[2.730s] -- Detecting CXX compiler ABI info - done
+[2.737s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[2.737s] -- Detecting CXX compile features
+[2.738s] -- Detecting CXX compile features - done
+[2.740s] -- Found ament_cmake: 1.3.12 (/opt/ros/humble/share/ament_cmake/cmake)
+[2.885s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[2.967s] -- Found ament_lint_auto: 0.12.14 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[3.037s] -- Added test 'flake8' to check Python code syntax and style conventions
+[3.038s] -- Added test 'lint_cmake' to check CMake code style
+[3.039s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[3.041s] -- Added test 'xmllint' to check XML markup files
+[3.046s] -- Configuring done
+[3.050s] -- Generating done
+[3.053s] -- Build files have been written to: /home/guo/fishbot/ros2bookcode/chapt7/chapt7_ws/build/fishbot_description
+[3.058s] Invoked command in '/home/guo/fishbot/ros2bookcode/chapt7/chapt7_ws/build/fishbot_description' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/guo/fishbot/ros2bookcode/chapt7/chapt7_ws/src/fishbot_description -DCMAKE_INSTALL_PREFIX=/home/guo/fishbot/ros2bookcode/chapt7/chapt7_ws/install/fishbot_description
+[3.061s] Invoking command in '/home/guo/fishbot/ros2bookcode/chapt7/chapt7_ws/build/fishbot_description': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/guo/fishbot/ros2bookcode/chapt7/chapt7_ws/build/fishbot_description -- -j20 -l20
+[3.104s] Invoked command in '/home/guo/fishbot/ros2bookcode/chapt7/chapt7_ws/build/fishbot_description' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/guo/fishbot/ros2bookcode/chapt7/chapt7_ws/build/fishbot_description -- -j20 -l20
+[3.111s] Invoking command in '/home/guo/fishbot/ros2bookcode/chapt7/chapt7_ws/build/fishbot_description': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/guo/fishbot/ros2bookcode/chapt7/chapt7_ws/build/fishbot_description
+[3.117s] -- Install configuration: ""
+[3.117s] -- Installing: /home/guo/fishbot/ros2bookcode/chapt7/chapt7_ws/install/fishbot_description/share/fishbot_description/launch
+[3.118s] -- Installing: /home/guo/fishbot/ros2bookcode/chapt7/chapt7_ws/install/fishbot_description/share/fishbot_description/launch/display_robot.launch.py
+[3.118s] -- Installing: /home/guo/fishbot/ros2bookcode/chapt7/chapt7_ws/install/fishbot_description/share/fishbot_description/launch/gazebo_sim.launch.py
+[3.118s] -- Installing: /home/guo/fishbot/ros2bookcode/chapt7/chapt7_ws/install/fishbot_description/share/fishbot_description/urdf
+[3.118s] -- Installing: /home/guo/fishbot/ros2bookcode/chapt7/chapt7_ws/install/fishbot_description/share/fishbot_description/urdf/fishbot
+[3.119s] -- Installing: /home/guo/fishbot/ros2bookcode/chapt7/chapt7_ws/install/fishbot_description/share/fishbot_description/urdf/fishbot/plugins
+[3.119s] -- Installing: /home/guo/fishbot/ros2bookcode/chapt7/chapt7_ws/install/fishbot_description/share/fishbot_description/urdf/fishbot/plugins/gazebo_sensor_plugin.xacro
+[3.119s] -- Installing: /home/guo/fishbot/ros2bookcode/chapt7/chapt7_ws/install/fishbot_description/share/fishbot_description/urdf/fishbot/plugins/gazebo_control_plugin.xacro
+[3.120s] -- Installing: /home/guo/fishbot/ros2bookcode/chapt7/chapt7_ws/install/fishbot_description/share/fishbot_description/urdf/fishbot/base.urdf.xacro
+[3.120s] -- Installing: /home/guo/fishbot/ros2bookcode/chapt7/chapt7_ws/install/fishbot_description/share/fishbot_description/urdf/fishbot/actuator
+[3.120s] -- Installing: /home/guo/fishbot/ros2bookcode/chapt7/chapt7_ws/install/fishbot_description/share/fishbot_description/urdf/fishbot/actuator/caster.urdf.xacro
+[3.121s] -- Installing: /home/guo/fishbot/ros2bookcode/chapt7/chapt7_ws/install/fishbot_description/share/fishbot_description/urdf/fishbot/actuator/wheel.urdf.xacro
+[3.121s] -- Installing: /home/guo/fishbot/ros2bookcode/chapt7/chapt7_ws/install/fishbot_description/share/fishbot_description/urdf/fishbot/sensor
+[3.121s] -- Installing: /home/guo/fishbot/ros2bookcode/chapt7/chapt7_ws/install/fishbot_description/share/fishbot_description/urdf/fishbot/sensor/camera.urdf.xacro
+[3.121s] -- Installing: /home/guo/fishbot/ros2bookcode/chapt7/chapt7_ws/install/fishbot_description/share/fishbot_description/urdf/fishbot/sensor/imu.urdf.xacro
+[3.121s] -- Installing: /home/guo/fishbot/ros2bookcode/chapt7/chapt7_ws/install/fishbot_description/share/fishbot_description/urdf/fishbot/sensor/laser.urdf.xacro
+[3.121s] -- Installing: /home/guo/fishbot/ros2bookcode/chapt7/chapt7_ws/install/fishbot_description/share/fishbot_description/urdf/fishbot/fishbot.ros2_control.xacro
+[3.122s] -- Installing: /home/guo/fishbot/ros2bookcode/chapt7/chapt7_ws/install/fishbot_description/share/fishbot_description/urdf/fishbot/fishbot.urdf.xacro
+[3.122s] -- Installing: /home/guo/fishbot/ros2bookcode/chapt7/chapt7_ws/install/fishbot_description/share/fishbot_description/urdf/fishbot/common_inertia.xacro
+[3.122s] -- Installing: /home/guo/fishbot/ros2bookcode/chapt7/chapt7_ws/install/fishbot_description/share/fishbot_description/urdf/first_robot.urdf
+[3.122s] -- Installing: /home/guo/fishbot/ros2bookcode/chapt7/chapt7_ws/install/fishbot_description/share/fishbot_description/urdf/first_robot.urdf.xacro
+[3.122s] -- Installing: /home/guo/fishbot/ros2bookcode/chapt7/chapt7_ws/install/fishbot_description/share/fishbot_description/urdf/first_robot.gv
+[3.122s] -- Installing: /home/guo/fishbot/ros2bookcode/chapt7/chapt7_ws/install/fishbot_description/share/fishbot_description/urdf/first_robot.pdf
+[3.122s] -- Installing: /home/guo/fishbot/ros2bookcode/chapt7/chapt7_ws/install/fishbot_description/share/fishbot_description/config
+[3.122s] -- Installing: /home/guo/fishbot/ros2bookcode/chapt7/chapt7_ws/install/fishbot_description/share/fishbot_description/config/fishbot_ros2_controller.yaml
+[3.122s] -- Installing: /home/guo/fishbot/ros2bookcode/chapt7/chapt7_ws/install/fishbot_description/share/fishbot_description/config/rviz
+[3.122s] -- Installing: /home/guo/fishbot/ros2bookcode/chapt7/chapt7_ws/install/fishbot_description/share/fishbot_description/config/rviz/dispaly_model.rviz
+[3.122s] -- Installing: /home/guo/fishbot/ros2bookcode/chapt7/chapt7_ws/install/fishbot_description/share/fishbot_description/world
+[3.122s] -- Installing: /home/guo/fishbot/ros2bookcode/chapt7/chapt7_ws/install/fishbot_description/share/fishbot_description/world/custom_room.world
+[3.122s] -- Installing: /home/guo/fishbot/ros2bookcode/chapt7/chapt7_ws/install/fishbot_description/share/fishbot_description/world/room
+[3.123s] -- Installing: /home/guo/fishbot/ros2bookcode/chapt7/chapt7_ws/install/fishbot_description/share/fishbot_description/world/room/model.config
+[3.123s] -- Installing: /home/guo/fishbot/ros2bookcode/chapt7/chapt7_ws/install/fishbot_description/share/fishbot_description/world/room/model.sdf
+[3.124s] -- Installing: /home/guo/fishbot/ros2bookcode/chapt7/chapt7_ws/install/fishbot_description/share/ament_index/resource_index/package_run_dependencies/fishbot_description
+[3.124s] -- Installing: /home/guo/fishbot/ros2bookcode/chapt7/chapt7_ws/install/fishbot_description/share/ament_index/resource_index/parent_prefix_path/fishbot_description
+[3.124s] -- Installing: /home/guo/fishbot/ros2bookcode/chapt7/chapt7_ws/install/fishbot_description/share/fishbot_description/environment/ament_prefix_path.sh
+[3.125s] -- Installing: /home/guo/fishbot/ros2bookcode/chapt7/chapt7_ws/install/fishbot_description/share/fishbot_description/environment/ament_prefix_path.dsv
+[3.125s] -- Installing: /home/guo/fishbot/ros2bookcode/chapt7/chapt7_ws/install/fishbot_description/share/fishbot_description/environment/path.sh
+[3.125s] -- Installing: /home/guo/fishbot/ros2bookcode/chapt7/chapt7_ws/install/fishbot_description/share/fishbot_description/environment/path.dsv
+[3.125s] -- Installing: /home/guo/fishbot/ros2bookcode/chapt7/chapt7_ws/install/fishbot_description/share/fishbot_description/local_setup.bash
+[3.125s] -- Installing: /home/guo/fishbot/ros2bookcode/chapt7/chapt7_ws/install/fishbot_description/share/fishbot_description/local_setup.sh
+[3.125s] -- Installing: /home/guo/fishbot/ros2bookcode/chapt7/chapt7_ws/install/fishbot_description/share/fishbot_description/local_setup.zsh
+[3.126s] -- Installing: /home/guo/fishbot/ros2bookcode/chapt7/chapt7_ws/install/fishbot_description/share/fishbot_description/local_setup.dsv
+[3.126s] -- Installing: /home/guo/fishbot/ros2bookcode/chapt7/chapt7_ws/install/fishbot_description/share/fishbot_description/package.dsv
+[3.126s] -- Installing: /home/guo/fishbot/ros2bookcode/chapt7/chapt7_ws/install/fishbot_description/share/ament_index/resource_index/packages/fishbot_description
+[3.126s] -- Installing: /home/guo/fishbot/ros2bookcode/chapt7/chapt7_ws/install/fishbot_description/share/fishbot_description/cmake/fishbot_descriptionConfig.cmake
+[3.127s] -- Installing: /home/guo/fishbot/ros2bookcode/chapt7/chapt7_ws/install/fishbot_description/share/fishbot_description/cmake/fishbot_descriptionConfig-version.cmake
+[3.127s] -- Installing: /home/guo/fishbot/ros2bookcode/chapt7/chapt7_ws/install/fishbot_description/share/fishbot_description/package.xml
+[3.129s] Invoked command in '/home/guo/fishbot/ros2bookcode/chapt7/chapt7_ws/build/fishbot_description' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/guo/fishbot/ros2bookcode/chapt7/chapt7_ws/build/fishbot_description

@@ -1,0 +1,10 @@
+/home/guo/fishbot/ros2bookcode/chapt7/chapt7_ws/build/fishbot_application_cpp/CMakeFiles/uninstall.dir
+/home/guo/fishbot/ros2bookcode/chapt7/chapt7_ws/build/fishbot_application_cpp/CMakeFiles/fishbot_application_cpp_uninstall.dir
+/home/guo/fishbot/ros2bookcode/chapt7/chapt7_ws/build/fishbot_application_cpp/CMakeFiles/nav2pose.dir
+/home/guo/fishbot/ros2bookcode/chapt7/chapt7_ws/build/fishbot_application_cpp/CMakeFiles/test.dir
+/home/guo/fishbot/ros2bookcode/chapt7/chapt7_ws/build/fishbot_application_cpp/CMakeFiles/edit_cache.dir
+/home/guo/fishbot/ros2bookcode/chapt7/chapt7_ws/build/fishbot_application_cpp/CMakeFiles/rebuild_cache.dir
+/home/guo/fishbot/ros2bookcode/chapt7/chapt7_ws/build/fishbot_application_cpp/CMakeFiles/list_install_components.dir
+/home/guo/fishbot/ros2bookcode/chapt7/chapt7_ws/build/fishbot_application_cpp/CMakeFiles/install.dir
+/home/guo/fishbot/ros2bookcode/chapt7/chapt7_ws/build/fishbot_application_cpp/CMakeFiles/install/local.dir
+/home/guo/fishbot/ros2bookcode/chapt7/chapt7_ws/build/fishbot_application_cpp/CMakeFiles/install/strip.dir

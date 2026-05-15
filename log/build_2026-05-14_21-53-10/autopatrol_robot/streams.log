@@ -1,0 +1,37 @@
+[0.692s] Invoking command in '/home/guo/fishbot/ros2bookcode/chapt7/chapt7_ws/build/autopatrol_robot': PYTHONPATH=/home/guo/fishbot/ros2bookcode/chapt7/chapt7_ws/build/autopatrol_robot/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/guo/fishbot/ros2bookcode/chapt7/chapt7_ws/install/autopatrol_robot/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --uninstall --editable --build-directory /home/guo/fishbot/ros2bookcode/chapt7/chapt7_ws/build/autopatrol_robot/build
+[0.840s] running develop
+[0.927s] Removing /home/guo/fishbot/ros2bookcode/chapt7/chapt7_ws/install/autopatrol_robot/lib/python3.10/site-packages/autopatrol-robot.egg-link (link to .)
+[0.943s] Invoked command in '/home/guo/fishbot/ros2bookcode/chapt7/chapt7_ws/build/autopatrol_robot' returned '0': PYTHONPATH=/home/guo/fishbot/ros2bookcode/chapt7/chapt7_ws/build/autopatrol_robot/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/guo/fishbot/ros2bookcode/chapt7/chapt7_ws/install/autopatrol_robot/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --uninstall --editable --build-directory /home/guo/fishbot/ros2bookcode/chapt7/chapt7_ws/build/autopatrol_robot/build
+[0.944s] Invoking command in '/home/guo/fishbot/ros2bookcode/chapt7/chapt7_ws/src/autopatrol_robot': PYTHONPATH=/home/guo/fishbot/ros2bookcode/chapt7/chapt7_ws/build/autopatrol_robot/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/guo/fishbot/ros2bookcode/chapt7/chapt7_ws/install/autopatrol_robot/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/autopatrol_robot build --build-base /home/guo/fishbot/ros2bookcode/chapt7/chapt7_ws/build/autopatrol_robot/build install --record /home/guo/fishbot/ros2bookcode/chapt7/chapt7_ws/build/autopatrol_robot/install.log --single-version-externally-managed install_data --force
+[1.077s] running egg_info
+[1.078s] writing ../../build/autopatrol_robot/autopatrol_robot.egg-info/PKG-INFO
+[1.078s] writing dependency_links to ../../build/autopatrol_robot/autopatrol_robot.egg-info/dependency_links.txt
+[1.078s] writing entry points to ../../build/autopatrol_robot/autopatrol_robot.egg-info/entry_points.txt
+[1.078s] writing requirements to ../../build/autopatrol_robot/autopatrol_robot.egg-info/requires.txt
+[1.078s] writing top-level names to ../../build/autopatrol_robot/autopatrol_robot.egg-info/top_level.txt
+[1.079s] reading manifest file '../../build/autopatrol_robot/autopatrol_robot.egg-info/SOURCES.txt'
+[1.080s] writing manifest file '../../build/autopatrol_robot/autopatrol_robot.egg-info/SOURCES.txt'
+[1.080s] running build
+[1.080s] running build_py
+[1.081s] copying autopatrol_robot/patrol_node.py -> /home/guo/fishbot/ros2bookcode/chapt7/chapt7_ws/build/autopatrol_robot/build/lib/autopatrol_robot
+[1.081s] running install
+[1.081s] running install_lib
+[1.082s] creating /home/guo/fishbot/ros2bookcode/chapt7/chapt7_ws/install/autopatrol_robot/lib/python3.10/site-packages/autopatrol_robot
+[1.082s] copying /home/guo/fishbot/ros2bookcode/chapt7/chapt7_ws/build/autopatrol_robot/build/lib/autopatrol_robot/patrol_node.py -> /home/guo/fishbot/ros2bookcode/chapt7/chapt7_ws/install/autopatrol_robot/lib/python3.10/site-packages/autopatrol_robot
+[1.082s] copying /home/guo/fishbot/ros2bookcode/chapt7/chapt7_ws/build/autopatrol_robot/build/lib/autopatrol_robot/speaker.py -> /home/guo/fishbot/ros2bookcode/chapt7/chapt7_ws/install/autopatrol_robot/lib/python3.10/site-packages/autopatrol_robot
+[1.082s] copying /home/guo/fishbot/ros2bookcode/chapt7/chapt7_ws/build/autopatrol_robot/build/lib/autopatrol_robot/__init__.py -> /home/guo/fishbot/ros2bookcode/chapt7/chapt7_ws/install/autopatrol_robot/lib/python3.10/site-packages/autopatrol_robot
+[1.083s] byte-compiling /home/guo/fishbot/ros2bookcode/chapt7/chapt7_ws/install/autopatrol_robot/lib/python3.10/site-packages/autopatrol_robot/patrol_node.py to patrol_node.cpython-310.pyc
+[1.084s] byte-compiling /home/guo/fishbot/ros2bookcode/chapt7/chapt7_ws/install/autopatrol_robot/lib/python3.10/site-packages/autopatrol_robot/speaker.py to speaker.cpython-310.pyc
+[1.085s] byte-compiling /home/guo/fishbot/ros2bookcode/chapt7/chapt7_ws/install/autopatrol_robot/lib/python3.10/site-packages/autopatrol_robot/__init__.py to __init__.cpython-310.pyc
+[1.085s] running install_data
+[1.086s] copying resource/autopatrol_robot -> /home/guo/fishbot/ros2bookcode/chapt7/chapt7_ws/install/autopatrol_robot/share/ament_index/resource_index/packages
+[1.086s] copying package.xml -> /home/guo/fishbot/ros2bookcode/chapt7/chapt7_ws/install/autopatrol_robot/share/autopatrol_robot
+[1.086s] copying config/patrol_config.yaml -> /home/guo/fishbot/ros2bookcode/chapt7/chapt7_ws/install/autopatrol_robot/share/autopatrol_robot/config
+[1.086s] copying launch/autopatrol.launch.py -> /home/guo/fishbot/ros2bookcode/chapt7/chapt7_ws/install/autopatrol_robot/share/autopatrol_robot/launch
+[1.086s] running install_egg_info
+[1.088s] Copying ../../build/autopatrol_robot/autopatrol_robot.egg-info to /home/guo/fishbot/ros2bookcode/chapt7/chapt7_ws/install/autopatrol_robot/lib/python3.10/site-packages/autopatrol_robot-0.0.0-py3.10.egg-info
+[1.089s] running install_scripts
+[1.101s] Installing patrol_node script to /home/guo/fishbot/ros2bookcode/chapt7/chapt7_ws/install/autopatrol_robot/lib/autopatrol_robot
+[1.101s] Installing speaker script to /home/guo/fishbot/ros2bookcode/chapt7/chapt7_ws/install/autopatrol_robot/lib/autopatrol_robot
+[1.101s] writing list of installed files to '/home/guo/fishbot/ros2bookcode/chapt7/chapt7_ws/build/autopatrol_robot/install.log'
+[1.117s] Invoked command in '/home/guo/fishbot/ros2bookcode/chapt7/chapt7_ws/src/autopatrol_robot' returned '0': PYTHONPATH=/home/guo/fishbot/ros2bookcode/chapt7/chapt7_ws/build/autopatrol_robot/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/guo/fishbot/ros2bookcode/chapt7/chapt7_ws/install/autopatrol_robot/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/autopatrol_robot build --build-base /home/guo/fishbot/ros2bookcode/chapt7/chapt7_ws/build/autopatrol_robot/build install --record /home/guo/fishbot/ros2bookcode/chapt7/chapt7_ws/build/autopatrol_robot/install.log --single-version-externally-managed install_data --force

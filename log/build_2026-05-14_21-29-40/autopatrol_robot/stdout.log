@@ -1,0 +1,20 @@
+running develop
+running egg_info
+writing autopatrol_robot.egg-info/PKG-INFO
+writing dependency_links to autopatrol_robot.egg-info/dependency_links.txt
+writing entry points to autopatrol_robot.egg-info/entry_points.txt
+writing requirements to autopatrol_robot.egg-info/requires.txt
+writing top-level names to autopatrol_robot.egg-info/top_level.txt
+reading manifest file 'autopatrol_robot.egg-info/SOURCES.txt'
+writing manifest file 'autopatrol_robot.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/guo/fishbot/ros2bookcode/chapt7/chapt7_ws/install/autopatrol_robot/lib/python3.10/site-packages/autopatrol-robot.egg-link (link to .)
+Installing patrol_node script to /home/guo/fishbot/ros2bookcode/chapt7/chapt7_ws/install/autopatrol_robot/lib/autopatrol_robot
+Installing speaker script to /home/guo/fishbot/ros2bookcode/chapt7/chapt7_ws/install/autopatrol_robot/lib/autopatrol_robot
+
+Installed /home/guo/fishbot/ros2bookcode/chapt7/chapt7_ws/build/autopatrol_robot
+running symlink_data
+symbolically linking /home/guo/fishbot/ros2bookcode/chapt7/chapt7_ws/build/autopatrol_robot/resource/autopatrol_robot -> /home/guo/fishbot/ros2bookcode/chapt7/chapt7_ws/install/autopatrol_robot/share/ament_index/resource_index/packages
+symbolically linking /home/guo/fishbot/ros2bookcode/chapt7/chapt7_ws/build/autopatrol_robot/package.xml -> /home/guo/fishbot/ros2bookcode/chapt7/chapt7_ws/install/autopatrol_robot/share/autopatrol_robot
+symbolically linking /home/guo/fishbot/ros2bookcode/chapt7/chapt7_ws/build/autopatrol_robot/config/patrol_config.yaml -> /home/guo/fishbot/ros2bookcode/chapt7/chapt7_ws/install/autopatrol_robot/share/autopatrol_robot/config
+symbolically linking /home/guo/fishbot/ros2bookcode/chapt7/chapt7_ws/build/autopatrol_robot/launch/autopatrol.launch.py -> /home/guo/fishbot/ros2bookcode/chapt7/chapt7_ws/install/autopatrol_robot/share/autopatrol_robot/launch

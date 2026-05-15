@@ -1,0 +1,1 @@
+/home/guo/fishbot/ros2bookcode/chapt7/chapt7_ws/build/fishbot_navigation2/ament_cmake_environment_hooks/local_setup.bash

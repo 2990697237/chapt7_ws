@@ -1,0 +1,1 @@
+/home/guo/fishbot/ros2bookcode/chapt7/chapt7_ws/src/autopatrol_robot/launch/autopatrol.launch.py

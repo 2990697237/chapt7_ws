@@ -1,0 +1,1 @@
+/home/guo/fishbot/ros2bookcode/chapt7/chapt7_ws/src/fishbot_navigation2/launch/navigation2.launch.py
