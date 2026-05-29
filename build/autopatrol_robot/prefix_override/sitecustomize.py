@@ -1,4 +1,0 @@
-import sys
-if sys.prefix == '/usr':
-    sys.real_prefix = sys.prefix
-    sys.prefix = sys.exec_prefix = '/home/guo/fishbot/ros2bookcode/chapt7/chapt7_ws/install/autopatrol_robot'

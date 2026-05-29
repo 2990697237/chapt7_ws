@@ -1,6 +1,0 @@
-{
-  "package_name": "autopatrol_interfaces",
-  "non_idl_tuples": [
-    "/home/guo/fishbot/ros2bookcode/chapt7/chapt7_ws/src/autopatrol_interfaces:srv/SpeachText.srv"
-  ]
-}
